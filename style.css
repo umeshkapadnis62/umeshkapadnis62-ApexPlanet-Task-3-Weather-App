@@ -15,7 +15,6 @@ text-align:center;
 width:500px;
 box-shadow:0 15px 35px rgba(0,0,0,0.2);
 }
-
 h1{
 font-size:32px;
 margin-bottom:25px;
@@ -24,7 +23,10 @@ margin-bottom:25px;
 .search-box{
 margin-bottom:20px;
 }
-
+input:focus {
+  outline: none;
+  border: 2px solid blue;
+}
 input{
 padding:15px;
 width:70%;
