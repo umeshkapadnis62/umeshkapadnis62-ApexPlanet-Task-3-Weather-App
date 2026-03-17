@@ -38,4 +38,5 @@ This project is developed as part of ApexPlanet Internship Task 3 to demonstrate
 
 ---
 https://umeshkapadnis62.github.io/umeshkapadnis62-ApexPlanet-Task-3-Weather-App/
+
 👨‍💻 Developed by Umesh Kapadnis
